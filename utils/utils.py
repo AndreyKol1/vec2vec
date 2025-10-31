@@ -12,8 +12,6 @@ from translators.IdentityBaseline import IdentityBaseline
 from translators.MLPWithResidual import MLPWithResidual
 from translators.LinearTranslator import LinearTranslator
 from translators.TransformTranslator import TransformTranslator
-from translators.transforms.UNetTransform import UNetTransform
-from translators.transforms.UNet1dTransform import UNet1dTransform
 
 from vec2text.models import InversionModel
 
